@@ -3,4 +3,4 @@
 *.tar.xz
 
 # 忽略整個資料夾
-./tmp-pkg
+./tmp-pkg/
