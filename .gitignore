@@ -1,0 +1,6 @@
+# 忽略所有附檔名是 .exe, .tar.xz 的檔案
+*.exe
+*.tar.xz
+
+# 忽略整個資料夾
+./tmp-pkg
